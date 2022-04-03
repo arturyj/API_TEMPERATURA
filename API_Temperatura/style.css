@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(225, 225, 225);
+}
+
+#titulo{
+    font-size: 100px;;
+    color:white
+}
+
+#desc{
+    margin: -60px;
+    margin-left: -5px;
+    box-shadow: 5px 8px 4px 5px #FFE754;
+    background-color: rgb(50, 136, 41);
+    margin-bottom: 20px;
+    height: 250px;
+    width: 3000px;
+    color: rgb(255, 255, 255);
+}
+
+.button{
+    background-color: rgb(14, 121, 71);
+    width: 177px;
+    height: 20px;
+    /*margin-left: 60px;*/
+}
+
+#information{
+    color: rgb(0, 0, 0);
+}
+
+#aviso{
+    color:rgb(255, 0, 0)
+}
+
+#link{
+    margin: 40px;
+    margin-left: -1px;
+}
